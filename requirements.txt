@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+python-dotenv
+flask-cors
+googlesearch-python
+tld
+
+
+
